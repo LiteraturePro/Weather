@@ -4,13 +4,11 @@
 
 ##### 体验
 
-![小程序码](https://pcdn.wxiou.cn//20200909102907.png)
+<img src="https://pcdn.wxiou.cn//20200909102907.png" alt="图片替换文本" width="400" height="400" align="bottom" />
+
 
 ##### 截图
-![小程序](https://pcdn.wxiou.cn//20200909104541.jpg)
-![小程序](https://pcdn.wxiou.cn//20200909104608.jpg)
-![小程序](https://pcdn.wxiou.cn//20200909104626.jpg)
-
+<img src="https://pcdn.wxiou.cn//20200909104541.jpg" alt="图片替换文本" width="180" height="360" align="bottom" /><img src="https://pcdn.wxiou.cn//20200909104608.jpg" alt="图片替换文本" width="180" height="360" align="bottom" /><img src="https://pcdn.wxiou.cn//20200909104626.jpg" alt="图片替换文本" width="180" height="360" align="bottom" />
 
 
 ## 实现过程
